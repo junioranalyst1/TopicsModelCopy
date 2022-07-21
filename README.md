@@ -1,5 +1,7 @@
 # TopicModels
- Topic Modeling for 4QQMN142_Principles of Marketing Coursework
+ Topics Model for 4QQMN142 - Principles of Marketing Coursework
+
+
 
 # Proposed Marketing Campaign
 
