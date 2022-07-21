@@ -1,8 +1,3 @@
-# TopicModels
- Topics Model for 4QQMN142 - Principles of Marketing Coursework
-
-
-
 # Proposed Marketing Campaign
 
 At the beginning of 2021 Hard Yards launched in the UK. It was a big challenge with a skeptical public and big brands widely established in the market. With a focus on the neglected areas of competitive sports, Hard Yards is a game changer for the spots accessories industry. Taking this edge of the brand into account, the way forward for Hard Yards is to establish a systematic, data driven marketing campaign. And to do that, we came up with the most adaptive tool, a topics model. Topics model is a natural language processing system, it can transform a mass of everyday language into significant insights to identify a brand opportunity.
